@@ -1,0 +1,19 @@
+#center {
+    width: 500px;
+    height: 250px;
+    margin: 50px;
+    outline: solid 1px black;
+}
+
+#heading {
+    color: blue;
+    text-align: center;
+}
+
+#numCounter {
+    text-align: center;
+}
+
+#buttonRow{
+    text-align: center;
+}
