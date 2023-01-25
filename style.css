@@ -17,3 +17,13 @@
 #buttonRow{
     text-align: center;
 }
+
+#subtractButton{
+    background-color: red;
+    outline: red;
+}
+
+#addButton{
+    background-color: green;
+    outline: green;
+}
